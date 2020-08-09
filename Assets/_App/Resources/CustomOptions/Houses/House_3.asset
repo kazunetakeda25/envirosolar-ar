@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a9334b677f22324a949fd61a60b76da, type: 3}
+  m_Name: House_3
+  m_EditorClassIdentifier: 
+  _id: 3
+  _icon: {fileID: 21300000, guid: dbaee4221a61a7d4eb003b5501941ae8, type: 3}
+  _name: Detached Home
+  solidColorIcon: 1
+  _housePrefab: {fileID: 1451107188415573727, guid: e64b10437f1f39144b486743414e9505,
+    type: 3}
+  _dropTarget: {fileID: 2800000, guid: d23424200b6c3da4ba888b84e6f8ce1f, type: 3}

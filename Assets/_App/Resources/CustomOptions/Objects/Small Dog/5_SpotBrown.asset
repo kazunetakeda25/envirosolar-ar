@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1f4a8d0bbe25a6499b0c2459d908228, type: 3}
+  m_Name: 5_SpotBrown
+  m_EditorClassIdentifier: 
+  _id: 5
+  _icon: {fileID: 21300000, guid: 6beb532ad99d3fc47a037d833c9866aa, type: 3}
+  _name: Spot_Brown
+  _smallDogPrefab: {fileID: 1891187568470574721, guid: d88995480d6a51445b531c65d4cb8f5f,
+    type: 3}

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c02531feef127bd479d7e67b76acebd5, type: 3}
+  m_Name: 4_SpotBlack
+  m_EditorClassIdentifier: 
+  _id: 4
+  _icon: {fileID: 21300000, guid: 049c16ad8f51c4542869be304a767b01, type: 3}
+  _name: Spot_Black
+  _bigDogPrefab: {fileID: -5278411337136688416, guid: e55c4622e5591f04ab2a1ae58442a893,
+    type: 3}

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1496f0a6251db746853a92ce9b89427, type: 3}
+  m_Name: 3_Basketball
+  m_EditorClassIdentifier: 
+  _id: 3
+  _icon: {fileID: 21300000, guid: d6f8bbf8a9729a844b78f3ba3b5449bf, type: 3}
+  _name: Basketball
+  _sportsPrefab: {fileID: 4434044397358660455, guid: 20751b0122efaa74fbbcb2df471aa6d7,
+    type: 3}

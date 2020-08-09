@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1f4a8d0bbe25a6499b0c2459d908228, type: 3}
+  m_Name: 3_Choco
+  m_EditorClassIdentifier: 
+  _id: 3
+  _icon: {fileID: 21300000, guid: b9699589e86a90b4eaea2f638f86db00, type: 3}
+  _name: Choco
+  _smallDogPrefab: {fileID: -8997209023115018026, guid: 339b3d1a9e45be343931a83d2e1752a9,
+    type: 3}

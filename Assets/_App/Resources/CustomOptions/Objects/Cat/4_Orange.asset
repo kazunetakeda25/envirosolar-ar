@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 370fef03138f477439192aaa88f3225f, type: 3}
+  m_Name: 4_Orange
+  m_EditorClassIdentifier: 
+  _id: 4
+  _icon: {fileID: 21300000, guid: 2001cd7d3f9978947aae56d89b73ed58, type: 3}
+  _name: Orange
+  _catPrefab: {fileID: 8151389027505310034, guid: 9ea0d31b3d7b9c34ab30ce49af72cee1,
+    type: 3}

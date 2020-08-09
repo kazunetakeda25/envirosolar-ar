@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a9334b677f22324a949fd61a60b76da, type: 3}
+  m_Name: House_9
+  m_EditorClassIdentifier: 
+  _id: 9
+  _icon: {fileID: 21300000, guid: acf07a74935d40b4f8330ccecf30f473, type: 3}
+  _name: Garage Combo
+  solidColorIcon: 1
+  _housePrefab: {fileID: 5450502495731730300, guid: 1404c5ec8062292499ee4c2af7a830a1,
+    type: 3}
+  _dropTarget: {fileID: 2800000, guid: 788ad45293b86084c99e56d1c2939557, type: 3}

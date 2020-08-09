@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c02531feef127bd479d7e67b76acebd5, type: 3}
+  m_Name: 2_Brown
+  m_EditorClassIdentifier: 
+  _id: 2
+  _icon: {fileID: 21300000, guid: c331febb1465d3e40bd6e9db1d642e63, type: 3}
+  _name: Brown
+  _bigDogPrefab: {fileID: 4424793560764804011, guid: c3e432425801f174d867be75e076cf7e,
+    type: 3}

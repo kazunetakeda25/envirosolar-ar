@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a9334b677f22324a949fd61a60b76da, type: 3}
+  m_Name: House_6
+  m_EditorClassIdentifier: 
+  _id: 6
+  _icon: {fileID: 21300000, guid: cbd02364b86a94647b7606fbf25159e1, type: 3}
+  _name: Three Bedroom
+  solidColorIcon: 1
+  _housePrefab: {fileID: 5450502495731730300, guid: 23ca65cc5dd32f6438c560aec321ab4b,
+    type: 3}
+  _dropTarget: {fileID: 2800000, guid: 08f06a5ee572aed4f8003d5de88c1705, type: 3}

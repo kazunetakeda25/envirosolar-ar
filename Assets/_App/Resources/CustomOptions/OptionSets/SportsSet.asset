@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b031a89d98eaa654787c73a5c43f195f, type: 3}
+  m_Name: SportsSet
+  m_EditorClassIdentifier: 
+  _id: 0
+  _icon: {fileID: 21300000, guid: 3a754e04757935c44b4acf29b41ba784, type: 3}
+  _name: Sports
+  buttonSize: {x: 200, y: 200}
+  options:
+  - {fileID: 11400000, guid: 32d11604fab37dd4d8b068c8aa8b0611, type: 2}
+  - {fileID: 11400000, guid: 9a6c6903b9aac8541b60221fa27458ec, type: 2}
+  - {fileID: 11400000, guid: e894de2151f5e784fb06806943bd4ecd, type: 2}
+  - {fileID: 11400000, guid: 40775da3246b232458e7d512a4ac9aa5, type: 2}
+  - {fileID: 11400000, guid: f10926b01841d784380786cb7f65c921, type: 2}
+  - {fileID: 11400000, guid: 06cf5da4ac8ff0b43960a0f537f30309, type: 2}
+  - {fileID: 11400000, guid: 2ed2b0f6c61c93d49b4f5c7949ce8353, type: 2}
+  - {fileID: 11400000, guid: b9da5ea2ec62ba3469fb3b723feb2065, type: 2}
