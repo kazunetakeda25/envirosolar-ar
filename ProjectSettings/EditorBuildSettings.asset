@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Build/splash.unity
+    guid: ab602b77a00eed445a5362708af6309a
+  - enabled: 1
+    path: Assets/Scenes/Build/login.unity
+    guid: 6c9514a3a7f7c5a4bbceec60e322c4ee
+  - enabled: 1
+    path: Assets/Scenes/Build/customerMenu.unity
+    guid: 78061088346013341a768988bbc28ed1
+  - enabled: 1
+    path: Assets/Scenes/Build/mainMenu.unity
+    guid: cf8be38a58ea72240a4afb0f5a92783f
+  - enabled: 1
+    path: Assets/Scenes/Build/editor.unity
+    guid: 983410fa175f6db4b810c39e3f188ad3
+  - enabled: 1
+    path: Assets/Scenes/Build/presentation.unity
+    guid: 0c5bcdcdfda02af43bcb61ad013481bc
+  m_configObjects:
+    com.unity.xr.arcore.PlayerSettings: {fileID: 11400000, guid: abac074124e6f8647872675ad3de86e0,
+      type: 2}
